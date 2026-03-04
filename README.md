@@ -10,7 +10,7 @@ A3CCS describes:
 - class and mod prefixes naming;
 - overall code formatting.
 
-This guide is intended for the community and can be freely used in any Arma 3 add-ons or modifications.
+This manual is intended for the community and can be freely used in any Arma 3 add-ons or modifications.
 
 ## License
 The A3CCS project is distributed under the [MIT License](LICENSE). You are free to:
